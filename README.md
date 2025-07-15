@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Octávio Nascimento!
 
-💻 **Estudante de Sistemas de Informação** | 🎶 **Criador Audiovisual** | 🚀 **Apaixonado por Tecnologia e Inovação**
+💻 **Estudante de Sistemas de Informação** | 💼 **Associate Application Developer at IBM** | 🎶 **Criador Audiovisual** | 🚀 **Apaixonado por Tecnologia e Inovação**
 
 Sou um estudante de Sistemas de Informação no terceiro semestre na PUC Campinas, com experiência em suporte técnico e redes, além de um grande interesse em desenvolvimento de software e automação. Atualmente, estou explorando o mundo do desenvolvimento e buscando maneiras de criar soluções eficientes e impactantes.
 
